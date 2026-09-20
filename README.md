@@ -2,7 +2,7 @@
 - 👀 Experienced with building in AI, Blockchain, Fullstack & Database Management
 - 🌱 Currently exploring Web3 and training AI models
 - 💪🏻 Familiar with Python, Java, C, HTML, CSS, JS, MySQL, PostgreSQL, Solidity and JSON
-- 🙌 Worked with tools and platforms like Supabase, Remix IDE, VSCode, Render, Git, ClickUp, Slack, Codex, Antigravity, Cursor, Openwork, Manus, Claude Code and custom AI workflows
+- 🙌 Worked with tools and platforms like Supabase, Remix IDE, VSCode, Render, Git, ClickUp, Slack, Codex, Antigravity, Cursor, Openwork, Manus, Claude Code, Linux Kernel, MCPs and custom AI workflows
 - 💞️ I am always beyond interested to collaborate with people on similar interests
 - 📫 Feel free to reach me! | Email - bryanroger124@gmail.com | Phone - 8667811950
 
